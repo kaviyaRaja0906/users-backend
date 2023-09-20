@@ -12,21 +12,12 @@
   "dependencies": {
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.2",
-<<<<<<< HEAD
-    "bson": "^4.4.0",
-=======
     "bson": "4.4.0",
->>>>>>> d39d790c2a78a0716cd47926bd53ec55a8fb8a86
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
-<<<<<<< HEAD
-    "mongodb": "^4.4.0",
-    "mongoose": "^5.13.20"
-=======
     "mongodb": "4.4.0",
     "mongoose": "^5.13.9"
->>>>>>> d39d790c2a78a0716cd47926bd53ec55a8fb8a86
   }
 }
