@@ -17,11 +17,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
-<<<<<<< HEAD
-    "mongodb": "5.2.0",
-=======
     "mongodb": "5.9.0",
->>>>>>> 3c8e749dc1247c742dd71c9dc9f588c279a9a0df
     "mongoose": "^5.13.9"
   }
 }
